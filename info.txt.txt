@@ -1,8 +1,0 @@
-Name: Jonathan Mendelson
-ID: 308564293
-
-Notebooks (Colab): https://drive.google.com/drive/folders/1dl9i0SJfQls5l1XqUxpvmza30RbSmOox?usp=drive_link
-
-Repo: https://github.com/Jonathm126/RL_FlappyBird
-
-Videos: \Optimal Agent - Training\Optimal Agent - Validation Vids + Data
