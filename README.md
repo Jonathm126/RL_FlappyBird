@@ -10,3 +10,6 @@ Submitted as a mid-semester project by Jonathan Mendelson
 * `.npy` files save the policies as numpy arrays.
 * `.npz` files save the training data as a structure of multiple numpy arrays.
 * `.pkl` is used to store validation sata which is structured in a dictionary.
+
+## Videos
+Training Vidoes of the optimal agent can be found in `Optimal Agent - Training \ Optimal Agent - Validation Vids`.
